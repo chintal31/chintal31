@@ -5,7 +5,7 @@ I'm Chintal. I've been working on the development of web applications using Java
 ### 🔭 What am I currently doing? 
 - Master's in Computer Science
 ### 🌱 What am I currently learning? 
-- Containerization Technologies, Machine Learning 
+- Typescript, Containerization Technologies, Machine Learning 
 ### 👯 What have I worked with? 
 - JavaScript, ReactJS, NodeJS, HTML, CSS, Redux, Git, Python, Beautiful Soup, AWS-Amplify, MongoDB, Sockets, Bootstrap, Docker.   
 ### 😄 Which is my Fav Quote? 
