@@ -1,4 +1,4 @@
-# Hey, Good to see you here! 👋
+# Hey! 👋
 
 I'm Chintal. I've been working on the development of web applications using JavaScript and Python since September 2019. Find out about me more below.
  
