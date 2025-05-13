@@ -1,6 +1,6 @@
 # Hey! 👋
 
-- I'm Chintal. I'm backend software engineer with 2.5+ years of industry experience with NodeJS.
+- I'm Chintal. I'm backend software engineer with 4+ years of industry experience with NodeJS.
 - Strong problem-solving skills and a track record of delivering high-quality code.
 - Skilled in optimizing performance, crafting scalable APIs, and ensuring the security of web applications.
 - Working in Software industry made me realize that Software Engineering calls to my passions. It incorporates problem solving and there's a lot to learn everyday. I enjoy solving challenges with code. 
