@@ -1,10 +1,12 @@
 # Hey! 👋
 
-- I'm Chintal. I'm backend software engineer with 4+ years of industry experience with NodeJS.
-- Strong problem-solving skills and a track record of delivering high-quality code.
-- Skilled in optimizing performance, crafting scalable APIs, and ensuring the security of web applications.
-- Working in Software industry made me realize that Software Engineering calls to my passions. It incorporates problem solving and there's a lot to learn everyday. I enjoy solving challenges with code. 
-- TypeScript, NestJS, Rust, JavaScript, NodeJS, Jest, PostgreSQL, Docker, HTML & CSS, Git(Hub), Terraform.
+- Backend Software Engineer with 4+ years of experience designing, developing, and deploying web
+applications. 
+- Skilled at improving system performance and reliability by implementing modern
+engineering practices such as authentication, CI/CD, automated testing, and code quality
+processes.
+
+Techstack: NodeJS, Typescript, NestJS, PostgreSQL, Terraform, Docker, ReactJS, Git, Rust, Python, Open Telemetry, Redis.
 
 ### ⚡ Quote of the day 
 > "World is a university and everyone in it is a teacher. Make sure when you wake up in the morning, you go to school"
