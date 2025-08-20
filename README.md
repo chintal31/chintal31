@@ -3,11 +3,7 @@
 💻 I'm a **Software Engineer** with 4+ years of experience in designing, developing, and deploying web applications.  
 I specialize in the **JavaScript/TypeScript ecosystem** and have strong experience in **backend engineering**.  
 
-⚡ I enjoy solving technical challenges, optimizing systems for performance & reliability, and implementing modern engineering practices such as:
-- Authentication & security
-- CI/CD pipelines
-- Automated testing
-- Code quality & maintainability
+⚡ I enjoy solving technical challenges, optimizing systems for performance & reliability, and implementing modern engineering practices.
 
 👨‍🏫 Alongside my work, I **mentor computer science students**, acting as a tech lead/project manager. I guide them in project selection, industry-standard development practices, code reviews, and testing—providing an internship-like experience.  
 
@@ -29,6 +25,7 @@ I specialize in the **JavaScript/TypeScript ecosystem** and have strong experien
 3. **[Rate Limiter](https://github.com/ParthZee/rate-limiter-backend)** – JavaScript by [Parth](https://github.com/ParthZee)  
 
 
+
 <h1 align="center"> 🛠️ Tech Stack I've worked with </h1>
 
 ### 🎨 Frontend
@@ -39,7 +36,6 @@ I specialize in the **JavaScript/TypeScript ecosystem** and have strong experien
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 </p>
 
 ### 🔧 Backend
