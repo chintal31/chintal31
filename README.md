@@ -9,6 +9,10 @@ I specialize in the **JavaScript/TypeScript ecosystem** and have strong experien
 
 ✨ **Software engineering calls to my passion**.  
 
+TechStack I've worked with: Node.js, TypeScript, Nest.js, Python, ReactJS, Postgres SQL, Docker, Kubernetes, CI/CD pipelines, Google
+Cloud Platform, REST APIs, ElasticSearch, Grafana. 
+
+DevOps, Event-Driven Architecture, Agile, Scrum, Kanban, Microservices, System Design.
 
 <h1 align="center"> 🚀 Projects </h1>
 
